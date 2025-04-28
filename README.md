@@ -1,4 +1,5 @@
-# ML_DATA_SCIENCE
+📌 Machine Learning for Data Science
+This repository contains practical implementations of essential ML algorithms for data analysis, predictive modeling, and pattern recognition. Each notebook includes code examples, visualizations, and insights for real-world applications like regression, classification, clustering, and anomaly detection.
 
 # Machine Learning Algorithms Implementation
 
